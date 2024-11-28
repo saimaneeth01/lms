@@ -1,0 +1,41 @@
+/* .container-fluid{
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(100, 139, 172);
+    font-weight: 600;
+} */
+
+.navbar a{
+    font-size: 20px;
+    text-decoration:none;
+    color: rgb(14, 12, 148);
+    font-weight: 500;
+    
+    transition: 0.3s;
+   
+}
+.navbar a:hover{
+    color: rgb(81, 39, 44);
+
+}
+
+/* {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background:transparent;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+} */
+
+.navbar-nav{
+    margin-left:925px;
+}
+
+.navbar-brand{
+    margin-right: auto; 
+}
